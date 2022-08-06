@@ -1,0 +1,148 @@
+
+
+ComputerName            : 172.23.0.143
+RemoteAddress           : 172.23.0.143
+RemotePort              : 9500
+NameResolutionResults   : 172.23.0.143
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.66.167
+NetRoute (NextHop)      : 10.19.66.161
+TcpTestSucceeded        : True
+
+
+
+
+
+ComputerName            : 172.23.0.133
+RemoteAddress           : 172.23.0.133
+RemotePort              : 9500
+NameResolutionResults   : 172.23.0.133
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.66.167
+NetRoute (NextHop)      : 10.19.66.161
+TcpTestSucceeded        : True
+
+
+
+WARNING: TCP connect to (172.23.0.134 : 9500) failed
+WARNING: Ping to 172.23.0.134 failed with status: TimedOut
+
+
+ComputerName            : 172.23.0.134
+RemoteAddress           : 172.23.0.134
+RemotePort              : 9500
+NameResolutionResults   : 172.23.0.134
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.66.167
+NetRoute (NextHop)      : 10.19.66.161
+PingSucceeded           : False
+PingReplyDetails (RTT)  : 0 ms
+TcpTestSucceeded        : False
+
+
+
+WARNING: TCP connect to (172.23.0.135 : 9500) failed
+WARNING: Ping to 172.23.0.135 failed with status: TimedOut
+
+
+ComputerName            : 172.23.0.135
+RemoteAddress           : 172.23.0.135
+RemotePort              : 9500
+NameResolutionResults   : 172.23.0.135
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.66.167
+NetRoute (NextHop)      : 10.19.66.161
+PingSucceeded           : False
+PingReplyDetails (RTT)  : 0 ms
+TcpTestSucceeded        : False
+
+
+
+WARNING: TCP connect to (172.23.0.136 : 9500) failed
+WARNING: Ping to 172.23.0.136 failed with status: TimedOut
+
+
+ComputerName            : 172.23.0.136
+RemoteAddress           : 172.23.0.136
+RemotePort              : 9500
+NameResolutionResults   : 172.23.0.136
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.66.167
+NetRoute (NextHop)      : 10.19.66.161
+PingSucceeded           : False
+PingReplyDetails (RTT)  : 0 ms
+TcpTestSucceeded        : False
+
+
+
+WARNING: TCP connect to (172.23.0.137 : 9500) failed
+WARNING: Ping to 172.23.0.137 failed with status: TimedOut
+
+
+ComputerName            : 172.23.0.137
+RemoteAddress           : 172.23.0.137
+RemotePort              : 9500
+NameResolutionResults   : 172.23.0.137
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.66.167
+NetRoute (NextHop)      : 10.19.66.161
+PingSucceeded           : False
+PingReplyDetails (RTT)  : 0 ms
+TcpTestSucceeded        : False
+
+
+
+WARNING: TCP connect to (172.23.0.138 : 9500) failed
+WARNING: Ping to 172.23.0.138 failed with status: TimedOut
+
+
+ComputerName            : 172.23.0.138
+RemoteAddress           : 172.23.0.138
+RemotePort              : 9500
+NameResolutionResults   : 172.23.0.138
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.66.167
+NetRoute (NextHop)      : 10.19.66.161
+PingSucceeded           : False
+PingReplyDetails (RTT)  : 0 ms
+TcpTestSucceeded        : False
+
+
+
+
+
+ComputerName            : 172.23.0.139
+RemoteAddress           : 172.23.0.139
+RemotePort              : 9500
+NameResolutionResults   : 172.23.0.139
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.66.167
+NetRoute (NextHop)      : 10.19.66.161
+TcpTestSucceeded        : True
+
+
+

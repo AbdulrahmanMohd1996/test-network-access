@@ -1,0 +1,324 @@
+
+
+ComputerName            : 10.20.129.153
+RemoteAddress           : 10.20.129.153
+RemotePort              : 7800
+NameResolutionResults   : 10.20.129.153
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.101
+NetRoute (NextHop)      : 10.19.67.97
+TcpTestSucceeded        : True
+
+
+
+WARNING: TCP connect to (10.20.129.153 : 7801) failed
+
+
+ComputerName            : 10.20.129.153
+RemoteAddress           : 10.20.129.153
+RemotePort              : 7801
+NameResolutionResults   : 10.20.129.153
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.101
+NetRoute (NextHop)      : 10.19.67.97
+PingSucceeded           : True
+PingReplyDetails (RTT)  : 9 ms
+TcpTestSucceeded        : False
+
+
+
+WARNING: TCP connect to (10.20.129.153 : 7802) failed
+
+
+ComputerName            : 10.20.129.153
+RemoteAddress           : 10.20.129.153
+RemotePort              : 7802
+NameResolutionResults   : 10.20.129.153
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.101
+NetRoute (NextHop)      : 10.19.67.97
+PingSucceeded           : True
+PingReplyDetails (RTT)  : 11 ms
+TcpTestSucceeded        : False
+
+
+
+WARNING: TCP connect to (10.20.129.153 : 7803) failed
+
+
+ComputerName            : 10.20.129.153
+RemoteAddress           : 10.20.129.153
+RemotePort              : 7803
+NameResolutionResults   : 10.20.129.153
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.101
+NetRoute (NextHop)      : 10.19.67.97
+PingSucceeded           : True
+PingReplyDetails (RTT)  : 12 ms
+TcpTestSucceeded        : False
+
+
+
+WARNING: TCP connect to (10.20.129.153 : 7804) failed
+
+
+ComputerName            : 10.20.129.153
+RemoteAddress           : 10.20.129.153
+RemotePort              : 7804
+NameResolutionResults   : 10.20.129.153
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.101
+NetRoute (NextHop)      : 10.19.67.97
+PingSucceeded           : True
+PingReplyDetails (RTT)  : 23 ms
+TcpTestSucceeded        : False
+
+
+
+
+
+ComputerName            : 10.20.129.153
+RemoteAddress           : 10.20.129.153
+RemotePort              : 7805
+NameResolutionResults   : 10.20.129.153
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.101
+NetRoute (NextHop)      : 10.19.67.97
+TcpTestSucceeded        : True
+
+
+
+
+
+ComputerName            : 10.20.129.151
+RemoteAddress           : 10.20.129.151
+RemotePort              : 7800
+NameResolutionResults   : 10.20.129.151
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.101
+NetRoute (NextHop)      : 10.19.67.97
+TcpTestSucceeded        : True
+
+
+
+WARNING: TCP connect to (10.20.129.151 : 7801) failed
+
+
+ComputerName            : 10.20.129.151
+RemoteAddress           : 10.20.129.151
+RemotePort              : 7801
+NameResolutionResults   : 10.20.129.151
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.101
+NetRoute (NextHop)      : 10.19.67.97
+PingSucceeded           : True
+PingReplyDetails (RTT)  : 24 ms
+TcpTestSucceeded        : False
+
+
+
+WARNING: TCP connect to (10.20.129.151 : 7802) failed
+
+
+ComputerName            : 10.20.129.151
+RemoteAddress           : 10.20.129.151
+RemotePort              : 7802
+NameResolutionResults   : 10.20.129.151
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.101
+NetRoute (NextHop)      : 10.19.67.97
+PingSucceeded           : True
+PingReplyDetails (RTT)  : 17 ms
+TcpTestSucceeded        : False
+
+
+
+WARNING: TCP connect to (10.20.129.151 : 7803) failed
+
+
+ComputerName            : 10.20.129.151
+RemoteAddress           : 10.20.129.151
+RemotePort              : 7803
+NameResolutionResults   : 10.20.129.151
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.101
+NetRoute (NextHop)      : 10.19.67.97
+PingSucceeded           : True
+PingReplyDetails (RTT)  : 21 ms
+TcpTestSucceeded        : False
+
+
+
+WARNING: TCP connect to (10.20.129.151 : 7804) failed
+
+
+ComputerName            : 10.20.129.151
+RemoteAddress           : 10.20.129.151
+RemotePort              : 7804
+NameResolutionResults   : 10.20.129.151
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.101
+NetRoute (NextHop)      : 10.19.67.97
+PingSucceeded           : True
+PingReplyDetails (RTT)  : 23 ms
+TcpTestSucceeded        : False
+
+
+
+
+
+ComputerName            : 10.20.129.151
+RemoteAddress           : 10.20.129.151
+RemotePort              : 7805
+NameResolutionResults   : 10.20.129.151
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.101
+NetRoute (NextHop)      : 10.19.67.97
+TcpTestSucceeded        : True
+
+
+
+
+
+ComputerName            : 10.20.129.155
+RemoteAddress           : 10.20.129.155
+RemotePort              : 7800
+NameResolutionResults   : 10.20.129.155
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.101
+NetRoute (NextHop)      : 10.19.67.97
+TcpTestSucceeded        : True
+
+
+
+WARNING: TCP connect to (10.20.129.155 : 7801) failed
+
+
+ComputerName            : 10.20.129.155
+RemoteAddress           : 10.20.129.155
+RemotePort              : 7801
+NameResolutionResults   : 10.20.129.155
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.101
+NetRoute (NextHop)      : 10.19.67.97
+PingSucceeded           : True
+PingReplyDetails (RTT)  : 30 ms
+TcpTestSucceeded        : False
+
+
+
+WARNING: TCP connect to (10.20.129.155 : 7802) failed
+
+
+ComputerName            : 10.20.129.155
+RemoteAddress           : 10.20.129.155
+RemotePort              : 7802
+NameResolutionResults   : 10.20.129.155
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.101
+NetRoute (NextHop)      : 10.19.67.97
+PingSucceeded           : True
+PingReplyDetails (RTT)  : 26 ms
+TcpTestSucceeded        : False
+
+
+
+WARNING: TCP connect to (10.20.129.155 : 7803) failed
+
+
+ComputerName            : 10.20.129.155
+RemoteAddress           : 10.20.129.155
+RemotePort              : 7803
+NameResolutionResults   : 10.20.129.155
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.101
+NetRoute (NextHop)      : 10.19.67.97
+PingSucceeded           : True
+PingReplyDetails (RTT)  : 16 ms
+TcpTestSucceeded        : False
+
+
+
+WARNING: TCP connect to (10.20.129.155 : 7804) failed
+
+
+ComputerName            : 10.20.129.155
+RemoteAddress           : 10.20.129.155
+RemotePort              : 7804
+NameResolutionResults   : 10.20.129.155
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.101
+NetRoute (NextHop)      : 10.19.67.97
+PingSucceeded           : True
+PingReplyDetails (RTT)  : 13 ms
+TcpTestSucceeded        : False
+
+
+
+
+
+ComputerName            : 10.20.129.155
+RemoteAddress           : 10.20.129.155
+RemotePort              : 7805
+NameResolutionResults   : 10.20.129.155
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.101
+NetRoute (NextHop)      : 10.19.67.97
+TcpTestSucceeded        : True
+
+
+

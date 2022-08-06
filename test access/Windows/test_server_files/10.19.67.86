@@ -1,0 +1,256 @@
+
+
+ComputerName            : 10.20.129.109
+RemoteAddress           : 10.20.129.109
+RemotePort              : 17830
+NameResolutionResults   : 10.20.129.109
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.86
+NetRoute (NextHop)      : 10.19.67.81
+TcpTestSucceeded        : True
+
+
+
+
+
+ComputerName            : 10.20.129.109
+RemoteAddress           : 10.20.129.109
+RemotePort              : 17831
+NameResolutionResults   : 10.20.129.109
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.86
+NetRoute (NextHop)      : 10.19.67.81
+TcpTestSucceeded        : True
+
+
+
+
+
+ComputerName            : 10.20.129.109
+RemoteAddress           : 10.20.129.109
+RemotePort              : 17832
+NameResolutionResults   : 10.20.129.109
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.86
+NetRoute (NextHop)      : 10.19.67.81
+TcpTestSucceeded        : True
+
+
+
+
+
+ComputerName            : 10.20.129.109
+RemoteAddress           : 10.20.129.109
+RemotePort              : 17833
+NameResolutionResults   : 10.20.129.109
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.86
+NetRoute (NextHop)      : 10.19.67.81
+TcpTestSucceeded        : True
+
+
+
+
+
+ComputerName            : 10.20.129.109
+RemoteAddress           : 10.20.129.109
+RemotePort              : 17834
+NameResolutionResults   : 10.20.129.109
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.86
+NetRoute (NextHop)      : 10.19.67.81
+TcpTestSucceeded        : True
+
+
+
+
+
+ComputerName            : 10.20.129.109
+RemoteAddress           : 10.20.129.109
+RemotePort              : 17835
+NameResolutionResults   : 10.20.129.109
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.86
+NetRoute (NextHop)      : 10.19.67.81
+TcpTestSucceeded        : True
+
+
+
+
+
+ComputerName            : 10.20.129.109
+RemoteAddress           : 10.20.129.109
+RemotePort              : 17836
+NameResolutionResults   : 10.20.129.109
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.86
+NetRoute (NextHop)      : 10.19.67.81
+TcpTestSucceeded        : True
+
+
+
+
+
+ComputerName            : 10.20.129.109
+RemoteAddress           : 10.20.129.109
+RemotePort              : 17837
+NameResolutionResults   : 10.20.129.109
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.86
+NetRoute (NextHop)      : 10.19.67.81
+TcpTestSucceeded        : True
+
+
+
+
+
+ComputerName            : 10.20.129.109
+RemoteAddress           : 10.20.129.109
+RemotePort              : 17838
+NameResolutionResults   : 10.20.129.109
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.86
+NetRoute (NextHop)      : 10.19.67.81
+TcpTestSucceeded        : True
+
+
+
+
+
+ComputerName            : 10.20.129.109
+RemoteAddress           : 10.20.129.109
+RemotePort              : 17839
+NameResolutionResults   : 10.20.129.109
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.86
+NetRoute (NextHop)      : 10.19.67.81
+TcpTestSucceeded        : True
+
+
+
+
+
+ComputerName            : 10.20.129.109
+RemoteAddress           : 10.20.129.109
+RemotePort              : 17840
+NameResolutionResults   : 10.20.129.109
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.86
+NetRoute (NextHop)      : 10.19.67.81
+TcpTestSucceeded        : True
+
+
+
+
+
+ComputerName            : 10.20.129.109
+RemoteAddress           : 10.20.129.109
+RemotePort              : 17841
+NameResolutionResults   : 10.20.129.109
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.86
+NetRoute (NextHop)      : 10.19.67.81
+TcpTestSucceeded        : True
+
+
+
+
+
+ComputerName            : 10.20.129.109
+RemoteAddress           : 10.20.129.109
+RemotePort              : 17842
+NameResolutionResults   : 10.20.129.109
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.86
+NetRoute (NextHop)      : 10.19.67.81
+TcpTestSucceeded        : True
+
+
+
+
+
+ComputerName            : 10.20.129.109
+RemoteAddress           : 10.20.129.109
+RemotePort              : 17843
+NameResolutionResults   : 10.20.129.109
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.86
+NetRoute (NextHop)      : 10.19.67.81
+TcpTestSucceeded        : True
+
+
+
+
+
+ComputerName            : 10.20.129.109
+RemoteAddress           : 10.20.129.109
+RemotePort              : 17844
+NameResolutionResults   : 10.20.129.109
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.86
+NetRoute (NextHop)      : 10.19.67.81
+TcpTestSucceeded        : True
+
+
+
+
+
+ComputerName            : 10.20.129.109
+RemoteAddress           : 10.20.129.109
+RemotePort              : 17845
+NameResolutionResults   : 10.20.129.109
+MatchingIPsecRules      : 
+NetworkIsolationContext : Internet
+IsAdmin                 : False
+InterfaceAlias          : Ethernet0
+SourceAddress           : 10.19.67.86
+NetRoute (NextHop)      : 10.19.67.81
+TcpTestSucceeded        : True
+
+
+
